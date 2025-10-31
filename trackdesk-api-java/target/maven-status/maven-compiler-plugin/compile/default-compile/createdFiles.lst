@@ -1,0 +1,6 @@
+com\trackdesk\api\repository\UsuarioRepository.class
+com\trackdesk\api\service\UsuarioService.class
+com\trackdesk\api\controller\UsuarioController.class
+com\trackdesk\api\exception\UsuarioNotFoundException.class
+com\trackdesk\api\model\UsuarioModel.class
+com\trackdesk\api\TrackdeskApplication.class
